@@ -83,6 +83,9 @@
 ### 정다솔님
 * 퀘스트
   * 가장 작은 단위의 코드 원칙 3가지를 신경썼는 지 스스로의 코드에 질문해보기. (개발자 원칙 73p.)
+
+    <img width=400 src="https://github.com/user-attachments/assets/f65ca831-2d28-4e03-a5fd-0c7a9b14f833">
+
 * 완료조건
   * README.md 의 체크리스트에 위 내용 포함시켜 미션 수행☺️
 
