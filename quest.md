@@ -243,6 +243,7 @@
 ---
 
 ## 57번팀의 퀘스트 사다리타기 결과!
+![Screenshot2024_08_02_173832](https://github.com/user-attachments/assets/7a459618-442f-45b5-b48b-9b387ba82d78)  
 
 ## 57번팀의 퀘스트 수행 결과!
 
